@@ -26,7 +26,8 @@ Results:
 Using the seaborn graphing package, I analyzed the losses that Russia has experienced over the first 50 days of the war.
 In regards to the soldiers lost, Russia has lost nearly 19,000 soldiers: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/Number%20of%20Russian%20soldiers%20lost.png
 Number of Prisoners of War was nearly 500 in first 50 days: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/Russian%20Prisoners%20of%20War%20in%20Ukraine.png
-Russia has lost a lot of its equipment: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/correct%20figure%20for%20the%20equipment%20loss.png The code in the file clean data provides more analysis where all of the types of the equipment are grouped together by the category and produced in a table.
+Russia has lost a lot of its equipment: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/correct%20figure%20for%20the%20equipment%20loss.png 
+The code in the file clean data provides more analysis where all of the types of the equipment are grouped together by the category and produced in a table.
 I have also ran some analysis, looking at the correlations between the prisoners of war and equipment lost: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/POW%20and%20Equipment%20Loss%20Correlation.png 
 And finally, I looked at the comparison of the growing number of prisoners of war vs the total amount on a daily basis: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/Daily%20increase%20of%20Prisoners%20of%20war.png
 Then, using the QGIS, I have mapped the territory of Ukraine, looking at these 3 dates: February 27th, March 27th, and May 2nd., and looking how the fighting and control of the territories has advanced over time. The yellow shows the territory under the control of Ukraine, green is Russia, and black are contested areas, where red is still under question (not enough data collected yet).
