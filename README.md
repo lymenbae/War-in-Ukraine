@@ -34,6 +34,7 @@ Then, using the QGIS, I have mapped the territory of Ukraine, looking at these 3
 February 27th:https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/map%20of%20Ukraine%2C%2027:02.png
 March 27th: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/Map%20of%20UA%2C%2027:03.png
 May 2nd: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/Map%20of%20UA%2C%205:2%20correct.png
+
 Based on this analysis, it could be seen that Russia has gained a lot of control over the Eastern part of Ukraine which is the most disputed territory, and most of the fighting is now done there, because Russia wants to have a total control over them, and actually it did approve the legitimacy and independence of the two provinces there: Luhansk and Donetsk.
 Lastly, looking at the twitter and news analysis, I have found that BBC World and NY Times had 13% and 12% of their coverage respectfully focusing on the war in Ukraine. And the sentiment analysis looking at these two news channels in Twitter, it was either super low or negative, meaning that attitudes towards the war are mostly negative even among the official news channels.
 Overall, the analysis of Twitter as the social media, the majority of the hashtags have been related to the War in Ukraine: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/correct%20version%20of%20hashtags%20over%20time.png
