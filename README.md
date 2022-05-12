@@ -24,7 +24,8 @@ The last two files: clean data and graphing.py look at the losses that Russia ha
 Results:
 
 Using the seaborn graphing package, I analyzed the losses that Russia has experienced over the first 50 days of the war.
-In regards to the soldiers lost, Russia has lost nearly 19,000 soldiers: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/Number%20of%20Russian%20soldiers%20lost.png
+In regards to the soldiers lost, Russia has lost nearly 19,000 soldiers: ![alt text](Number of Russian soldiers lost.png "Number of Russian soldiers dead")
+https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/Number%20of%20Russian%20soldiers%20lost.png
 Number of Prisoners of War was nearly 500 in first 50 days: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/Russian%20Prisoners%20of%20War%20in%20Ukraine.png
 Russia has lost a lot of its equipment: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/correct%20figure%20for%20the%20equipment%20loss.png 
 The code in the file clean data provides more analysis where all of the types of the equipment are grouped together by the category and produced in a table.
