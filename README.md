@@ -25,10 +25,13 @@ Results:
 
 Using the seaborn graphing package, I analyzed the losses that Russia has experienced over the first 50 days of the war.
 In regards to the soldiers lost, Russia has lost nearly 19,000 soldiers: 
+
 ![Line plot showing the number of Russian soldiers dead](Number%20of%20Russian%20soldiers%20lost.png)
 
 Number of Prisoners of War was nearly 500 in first 50 days: 
+
 ![Line plot showing the amount of prisoners of war](Russian%20Prisoners%20of%20War%20in%20Ukraine.png)
+
 Russia has lost a lot of its equipment: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/correct%20figure%20for%20the%20equipment%20loss.png 
 The code in the file clean data provides more analysis where all of the types of the equipment are grouped together by the category and produced in a table.
 I have also ran some analysis, looking at the correlations between the prisoners of war and equipment lost: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/POW%20and%20Equipment%20Loss%20Correlation.png 
