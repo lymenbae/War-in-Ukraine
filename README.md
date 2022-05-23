@@ -53,7 +53,7 @@ February 27th:
 
 March 27th:
 
-![map of Ukraine showing which parts of the country in Ukraine are under whose control as of March 27th](Map%20of%20UA%2C%2027:03.png)
+![map of Ukraine showing which parts of the country in Ukraine are under whose control as of March 27th](Map%20of%20UA%2C%2027:03.png) 
 
 May 2nd: 
 
@@ -63,4 +63,4 @@ Based on this analysis, it could be seen that Russia has gained a lot of control
 Lastly, looking at the twitter and news analysis, I have found that BBC World and NY Times had 13% and 12% of their coverage respectfully focusing on the war in Ukraine. And the sentiment analysis looking at these two news channels in Twitter, it was either super low or negative, meaning that attitudes towards the war are mostly negative even among the official news channels.
 Overall, looking at the analysis of Twitter as the social media, the majority of the hashtags have been related to the War in Ukraine: 
 
-![Bar plot looking at what were the most popular hashtags on Twitter] (correct%20version%20of%20hashtags%20over%20time.png)
+![Bar plot looking at what were the most popular hashtags on Twitter](correct%20version%20of%20hashtags%20over%20time.png)
