@@ -32,15 +32,35 @@ Number of Prisoners of War was nearly 500 in first 50 days:
 
 ![Line plot showing the amount of prisoners of war](Russian%20Prisoners%20of%20War%20in%20Ukraine.png)
 
-Russia has lost a lot of its equipment: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/correct%20figure%20for%20the%20equipment%20loss.png 
-The code in the file clean data provides more analysis where all of the types of the equipment are grouped together by the category and produced in a table.
-I have also ran some analysis, looking at the correlations between the prisoners of war and equipment lost: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/POW%20and%20Equipment%20Loss%20Correlation.png 
-And finally, I looked at the comparison of the growing number of prisoners of war vs the total amount on a daily basis: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/Daily%20increase%20of%20Prisoners%20of%20war.png
+Russia has lost a lot of its equipment: 
+
+![Line plot showing the equipment lost](correct%20figure%20for%20the%20equipment%20loss.png)
+
+The code in the file clean data provides more analysis where all of the types of the equipment are grouped together by the category and shown in a table.
+
+I have also ran some analysis, looking at the correlations between the prisoners of war and equipment lost:
+
+![Bar plot showing the correlations of losses between equipment and prisoners of war](POW%20and%20Equipment%20Loss%20Correlation.png)
+
+And finally, I looked at the comparison of the growing number of prisoners of war vs the total amount on a daily basis: 
+
+![Line plot looking at the daily increase of prisoners of war vs the total amount](Daily%20increase%20of%20Prisoners%20of%20war.png)
+
 Then, using the QGIS, I have mapped the territory of Ukraine, looking at these 3 dates: February 27th, March 27th, and May 2nd., and looking how the fighting and control of the territories has advanced over time. The yellow shows the territory under the control of Ukraine, green is Russia, and black are contested areas, where red is still under question (not enough data collected yet).
-February 27th:https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/map%20of%20Ukraine%2C%2027:02.png
-March 27th: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/Map%20of%20UA%2C%2027:03.png
-May 2nd: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/Map%20of%20UA%2C%205:2%20correct.png
+February 27th:
+
+![map of Ukraine showing which parts of the country in Ukraine are under whose control as of February 27th](map%20of%20Ukraine%2C%2027:02.png)
+
+March 27th:
+
+![map of Ukraine showing which parts of the country in Ukraine are under whose control as of March 27th](Map%20of%20UA%2C%2027:03.png)
+
+May 2nd: 
+
+![map of Ukraine showing which parts of the country in Ukraine are under whose control as of May 2nd](Map%20of%20UA%2C%205:2%20correct.png)
 
 Based on this analysis, it could be seen that Russia has gained a lot of control over the Eastern part of Ukraine which is the most disputed territory, and most of the fighting is now done there, because Russia wants to have a total control over them, and actually it did approve the legitimacy and independence of the two provinces there: Luhansk and Donetsk.
 Lastly, looking at the twitter and news analysis, I have found that BBC World and NY Times had 13% and 12% of their coverage respectfully focusing on the war in Ukraine. And the sentiment analysis looking at these two news channels in Twitter, it was either super low or negative, meaning that attitudes towards the war are mostly negative even among the official news channels.
-Overall, the analysis of Twitter as the social media, the majority of the hashtags have been related to the War in Ukraine: https://github.com/lymenbae/War-in-Ukraine-dev/blob/main/correct%20version%20of%20hashtags%20over%20time.png
+Overall, looking at the analysis of Twitter as the social media, the majority of the hashtags have been related to the War in Ukraine: 
+
+![Bar plot looking at what were the most popular hashtags on Twitter] (correct%20version%20of%20hashtags%20over%20time.png)
