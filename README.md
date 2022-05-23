@@ -49,7 +49,7 @@ And finally, I looked at the comparison of the growing number of prisoners of wa
 Then, using the QGIS, I have mapped the territory of Ukraine, looking at these 3 dates: February 27th, March 27th, and May 2nd., and looking how the fighting and control of the territories has advanced over time. The yellow shows the territory under the control of Ukraine, green is Russia, and black are contested areas, where red is still under question (not enough data collected yet).
 February 27th:
 
-![map of Ukraine showing which parts of the country in Ukraine are under whose control as of February 27th](map%20of%20Ukraine%2C%2027:02.png)
+![](map%20of%20Ukraine%2C%2027:02.png)
 
 March 27th:
 
