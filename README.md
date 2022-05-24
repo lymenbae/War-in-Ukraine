@@ -61,6 +61,7 @@ April 27th:
 ![Map of Ukraine showing which parts of the country in Ukraine are under whose control as of April 27th](map%20of%20UA%204_27.png)
 
 May 22nd:
+
 ![Map of Ukraine showing which parts of the country in Ukraine are under whose control as of May 22nd](map%20of%20UA%205_22.png)
 
 Based on this analysis, it could be seen that Russia has gained a lot of control over the Eastern part of Ukraine which is the most disputed territory, and most of the fighting is now done there, because Russia wants to have a total control over them, and actually it did approve the legitimacy and independence of the two provinces there: Luhansk and Donetsk.
