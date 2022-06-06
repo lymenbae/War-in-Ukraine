@@ -69,23 +69,23 @@ Yellow shows contested areas, green reflects the missing data, light purple is u
 
 February 27th:
 
-!(27%20%02%20%fighting%20%areas.png)
+![](27%20%02%20%fighting%20%areas.png)
 
 March 27th:
 
-!(fighting%20areas%2027%2003.png)
+![](fighting%20areas%2027%2003.png)
 
 April 27th:
 
-!(fighting%20areas%2024%2007.png)
+![](fighting%20areas%2024%2007.png)
 
 May 22nd:
 
-!(22%2005%20fighting%20areas.png)
+![](22%2005%20fighting%20areas.png)
 
 June 5th:
 
-!(fighting%20areas%2005%2006.png)
+![](fighting%20areas%2005%2006.png)
 
 Based on this analysis, it could be seen that Russia has gained a lot of control over the Eastern part of Ukraine which is the most disputed territory, and most of the fighting is now done there, because Russia wants to have a total control over them, and actually it did approve the legitimacy and independence of the two provinces there: Luhansk and Donetsk.
 Lastly, looking at the twitter and news analysis, I have found that BBC World and NY Times had 13% and 12% of their coverage respectfully focusing on the war in Ukraine. And the sentiment analysis looking at these two news channels in Twitter, it was either super low or negative, meaning that attitudes towards the war are mostly negative even among the official news channels.
