@@ -46,19 +46,23 @@ And finally, I looked at the comparison of the growing number of prisoners of wa
 
 ![Line plot looking at the daily increase of prisoners of war vs the total amount](Daily%20increase%20of%20Prisoners%20of%20war.png)
 
-Then, using the QGIS, I have mapped the territory of Ukraine, looking at these 3 dates: February 27th, March 27th, and May 2nd., and looking how the fighting and control of the territories has advanced over time. The yellow shows the territory under the control of Ukraine, green is Russia, and black are contested areas, where red is still under question (not enough data collected yet).
+Then, using the QGIS, I have mapped the territory of Ukraine, looking at these 3 dates: February 27th, March 27th, and May 2nd., and looking how the fighting and control of the territories has advanced over time. The dark blue shows the territory under the control of Ukraine, purple is Russia, and green are contested areas, where yellow indicates that it is still under question (not enough data collected yet).
 
 February 27th:
 
-![Map of Ukraine showing which parts of the country in Ukraine are under whose control as of March 27th](map%20of%20Ukraine%2C%2027:02.png) 
+![Map of Ukraine showing which parts of the country in Ukraine are under whose control as of February 27th](Map%20of%20UA%202_27.png) 
 
 March 27th:
 
-![Map of Ukraine showing which parts of the country in Ukraine are under whose control as of March 27th](Map%20of%20UA%2C%2027:03.png) 
+![Map of Ukraine showing which parts of the country in Ukraine are under whose control as of March 27th](map%20of%20UA%203_27.png) 
 
-May 2nd: 
+April 27th: 
 
-![Map of Ukraine showing which parts of the country in Ukraine are under whose control as of May 2nd](Map%20of%20UA%2C%205:2%20correct.png)
+![Map of Ukraine showing which parts of the country in Ukraine are under whose control as of April 27th](map%20of%20UA%204_27.png)
+
+May 22nd:
+
+![Map of Ukraine showing which parts of the country in Ukraine are under whose control as of May 22nd](map%20of%20UA%205_22.png)
 
 Based on this analysis, it could be seen that Russia has gained a lot of control over the Eastern part of Ukraine which is the most disputed territory, and most of the fighting is now done there, because Russia wants to have a total control over them, and actually it did approve the legitimacy and independence of the two provinces there: Luhansk and Donetsk.
 Lastly, looking at the twitter and news analysis, I have found that BBC World and NY Times had 13% and 12% of their coverage respectfully focusing on the war in Ukraine. And the sentiment analysis looking at these two news channels in Twitter, it was either super low or negative, meaning that attitudes towards the war are mostly negative even among the official news channels.
