@@ -69,7 +69,7 @@ Yellow shows contested areas, green reflects the missing data, light purple is u
 
 February 27th:
 
-!(27%2002%20%fighting%20%areas.png)
+!(27%20%02%20%fighting%20%areas.png)
 
 March 27th:
 
